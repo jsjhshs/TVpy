@@ -591,6 +591,13 @@
       "type": 3,
       "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-蘑菇视频.py",
       "ext": ""
+    },
+    {
+      "key": "激动网",
+      "name": "🔞成人区·激动网",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-激动网.py",
+      "ext": ""
     }
   ],
   "parses": [
