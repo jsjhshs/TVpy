@@ -605,6 +605,13 @@
       "type": 3,
       "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-幺妹好色.py",
       "ext": ""
+    },
+    {
+      "key": "天马行空",
+      "name": "🔞成人区·天马行空",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-天马行空.py",
+      "ext": ""
     }
   ],
   "parses": [
