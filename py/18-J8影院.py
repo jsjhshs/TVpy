@@ -55,8 +55,8 @@ class Spider(Spider):
         items = re.findall(r'<a href="(/\d+\.html)" class="video-card">(.*?)</a>', html, re.S)
         for href, item in items:
             try:
-                title = re.search(r'<div class="title">(.*?)</div>', item).group(1).strip()
-                img = re.search(r'src="([^"]*)"', item)
+                title = re.search(r'<p class="title">(.*?)</p>', item).group(1).strip()
+                img = re.search(r'<img src="([^"]*)"', item)
                 id = re.search(r'/(\d+)\.html', href).group(1)
                 list.append({"vod_id": id, "vod_name": title, "vod_pic": img.group(1) if img else "", "vod_remarks": ""})
             except:
@@ -105,8 +105,8 @@ class Spider(Spider):
         items = re.findall(r'<a href="(/\d+\.html)" class="video-card">(.*?)</a>', html, re.S)
         for href, item in items:
             try:
-                title = re.search(r'<div class="title">(.*?)</div>', item).group(1).strip()
-                img = re.search(r'src="([^"]*)"', item)
+                title = re.search(r'<p class="title">(.*?)</p>', item).group(1).strip()
+                img = re.search(r'<img src="([^"]*)"', item)
                 id = re.search(r'/(\d+)\.html', href).group(1)
                 list.append({"vod_id": id, "vod_name": title, "vod_pic": img.group(1) if img else "", "vod_remarks": ""})
             except:
