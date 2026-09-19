@@ -584,6 +584,13 @@
       "type": 3,
       "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-百万雄狮.py",
       "ext": ""
+    },
+    {
+      "key": "蘑菇视频",
+      "name": "🔞成人区·蘑菇视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-蘑菇视频.py",
+      "ext": ""
     }
   ],
   "parses": [
