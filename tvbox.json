@@ -556,6 +556,13 @@
       "type": 3,
       "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-P站中文版.py",
       "ext": ""
+    },
+    {
+      "key": "中外专区",
+      "name": "🔞成人区·中外专区",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-中外专区.py",
+      "ext": ""
     }
   ],
   "parses": [
