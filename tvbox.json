@@ -598,6 +598,13 @@
       "type": 3,
       "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-激动网.py",
       "ext": ""
+    },
+    {
+      "key": "幺妹好色",
+      "name": "🔞成人区·幺妹好色",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-幺妹好色.py",
+      "ext": ""
     }
   ],
   "parses": [
