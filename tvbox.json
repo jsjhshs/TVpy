@@ -612,6 +612,13 @@
       "type": 3,
       "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-天马行空.py",
       "ext": ""
+    },
+    {
+      "key": "东南亚极品",
+      "name": "🔞成人区·东南亚极品",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-东南亚极品.py",
+      "ext": ""
     }
   ],
   "parses": [
