@@ -619,6 +619,13 @@
       "type": 3,
       "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-东南亚极品.py",
       "ext": ""
+    },
+    {
+      "key": "1024视频",
+      "name": "🔞成人区·1024视频",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-1024视频.py",
+      "ext": ""
     }
   ],
   "parses": [
