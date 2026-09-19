@@ -549,6 +549,13 @@
       "type": 3,
       "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-原创伙伴.py",
       "ext": ""
+    },
+    {
+      "key": "P站中文版",
+      "name": "🔞成人区·P站中文版",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-P站中文版.py",
+      "ext": ""
     }
   ],
   "parses": [
