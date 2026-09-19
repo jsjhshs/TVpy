@@ -570,6 +570,13 @@
       "type": 3,
       "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-涩喵喵福利.py",
       "ext": ""
+    },
+    {
+      "key": "溏心AV",
+      "name": "🔞成人区·溏心AV",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/jwarrenrzflynn/TVpy/main/py/18-溏心AV.py",
+      "ext": ""
     }
   ],
   "parses": [
